@@ -1,0 +1,51 @@
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+         http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.8.xsd">
+
+<!--    <changeSet id="2024_Person_001" author="Rishabh Bisht">-->
+<!--        <insert tableName="department">-->
+<!--            <column name="id" value="1"/>-->
+<!--            <column name="name" value="Admin"/>-->
+<!--        </insert>-->
+<!--        <insert tableName="department">-->
+<!--            <column name="id" value="2"/>-->
+<!--            <column name="name" value="Accounts"/>-->
+<!--        </insert>-->
+<!--        <insert tableName="department">-->
+<!--            <column name="id" value="3"/>-->
+<!--            <column name="name" value="Business Analyst"/>-->
+<!--        </insert>-->
+<!--        <insert tableName="department">-->
+<!--            <column name="id" value="4"/>-->
+<!--            <column name="name" value="Java"/>-->
+<!--        </insert>-->
+<!--        <insert tableName="department">-->
+<!--            <column name="id" value="5"/>-->
+<!--            <column name="name" value="HR"/>-->
+<!--        </insert>-->
+<!--        <insert tableName="department">-->
+<!--            <column name="id" value="6"/>-->
+<!--            <column name="name" value="React Js"/>-->
+<!--        </insert>-->
+<!--        <insert tableName="department">-->
+<!--            <column name="id" value="7"/>-->
+<!--            <column name="name" value="Php"/>-->
+<!--        </insert>-->
+<!--        <insert tableName="department">-->
+<!--            <column name="id" value="8"/>-->
+<!--            <column name="name" value="Angular"/>-->
+<!--        </insert>-->
+<!--        <insert tableName="department">-->
+<!--            <column name="id" value="9"/>-->
+<!--            <column name="name" value="QA"/>-->
+<!--        </insert>-->
+<!--        <insert tableName="department">-->
+<!--            <column name="id" value="10"/>-->
+<!--            <column name="name" value="Python"/>-->
+<!--        </insert>-->
+<!--    </changeSet>-->
+
+
+</databaseChangeLog>

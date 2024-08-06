@@ -1,0 +1,39 @@
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+         http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.8.xsd">
+
+<!--    <changeSet id="2024_Person_001" author="Rishabh Bisht">-->
+<!--        <insert tableName="person">-->
+<!--            <column name="id" value="1"/>-->
+<!--            <column name="first_name" value="Ankit"/>-->
+<!--            <column name="last_name" value="Singh"/>-->
+<!--            <column name="mobile" value="9876543211"/>-->
+<!--            <column name="email" value="ankit1@gmail.com"/>-->
+<!--            <column name="age" value="26"/>-->
+<!--            <column name="password" value="2a$10$UOm4fHUI8K7rt5SGPhd31OLJoViZFYFA7LInilCCg7a1Vglm8RhEO"/>-->
+<!--            <column name="department_id" value="1"/>-->
+<!--        </insert>-->
+<!--    </changeSet>-->
+
+<!--    <changeSet id="2024_Person_002" author="Rishabh Bisht">-->
+<!--        <insert tableName="person_role">-->
+<!--            <column name="person_id" value="1"/>-->
+<!--            <column name="role_id" value="1"/>-->
+<!--        </insert>-->
+<!--    </changeSet>-->
+
+<!--    <changeSet id="2024_Person_003" author="Rishabh Bisht">-->
+<!--        <insert tableName="address">-->
+<!--            <column name="id" value="1"/>-->
+<!--            <column name="house_no" value="H-96"/>-->
+<!--            <column name="city" value="Noida"/>-->
+<!--            <column name="state" value="Uttar Pradesh"/>-->
+<!--            <column name="country" value="India"/>-->
+<!--            <column name="pincode" value="654321"/>-->
+<!--            <column name="person_id" value="1"/>-->
+<!--        </insert>-->
+<!--    </changeSet>-->
+
+</databaseChangeLog>

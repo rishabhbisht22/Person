@@ -1,0 +1,31 @@
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+         http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.8.xsd">
+
+<!--    <changeSet id="2024_Person_001" author="Rishabh Bisht">-->
+<!--        <validCheckSum>any</validCheckSum>-->
+<!--        <createSequence-->
+<!--                incrementBy="1"-->
+<!--                sequenceName="role_seq"-->
+<!--                startValue="1"/>-->
+<!--        <createTable tableName="role">-->
+<!--            <column name="name" type="varchar"></column>-->
+<!--        </createTable>-->
+<!--    </changeSet>-->
+
+<!--    <changeSet id="2024_Person_002" author="Rishabh Bisht">-->
+<!--        <insert tableName="role">-->
+<!--            <column name="id" value="1"/>-->
+<!--            <column name="name" value="ROLE_ADMIN"/>-->
+<!--        </insert>-->
+<!--    </changeSet>-->
+<!--    <changeSet id="2024_Person_003" author="Rishabh Bisht">-->
+<!--        <insert tableName="role">-->
+<!--            <column name="id" value="2"/>-->
+<!--            <column name="name" value="ROLE_USER"/>-->
+<!--        </insert>-->
+<!--    </changeSet>-->
+
+</databaseChangeLog>
